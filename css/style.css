@@ -73,6 +73,11 @@ body {
 
 }
 
+.socials .link:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: #000;
+}
+
 @media(max-width:380px) {
 
     .content {
